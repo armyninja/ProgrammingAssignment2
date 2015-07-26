@@ -2,7 +2,7 @@
 ## makeCacheMatrix is the name of the first function, 
 ## makeCacheMatrix creates a special "matrix" object that can cache its inverse
 ## cacheSolve computes the inverse of the special "matrix" returned by makeCacheMatrix
-## ---------
+## ----------
 # makeCacheMatrix creates a special "matrix" object that can cache its inverse
 # Begin makeCacheMatrix
 makeCacheMatrix <- function(x = matrix()) { #start makeCacheMatrix
